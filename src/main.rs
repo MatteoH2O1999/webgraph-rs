@@ -83,6 +83,7 @@ pub fn main() -> Result<()> {
         check_ef,
         convert,
         from_csv,
+        generate,
         llp,
         merge_perms,
         optimize_codes,

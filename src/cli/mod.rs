@@ -16,6 +16,7 @@ pub mod build;
 pub mod check_ef;
 pub mod convert;
 pub mod from_csv;
+pub mod generate;
 pub mod llp;
 pub mod merge_perms;
 pub mod optimize_codes;
